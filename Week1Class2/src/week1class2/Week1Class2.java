@@ -14,6 +14,11 @@ package week1class2;
 
 public class Week1Class2 {
 
+    public Person() {
+    }
+
+    
+    
     /**
      * @param args the command line arguments
      */
