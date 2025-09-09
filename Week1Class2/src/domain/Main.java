@@ -11,8 +11,13 @@ import java.util.Scanner;
  * @author edwim
  */
 public class Main {
-    Scanner scan = new Scanner(System.in);   
-    
-    
+    public static void main(String[] args) {
+        // Crear un cuadrado de 5 filas y 9 columnas
+        Cuadrado miCuadrado = new Cuadrado(5, 9);
+
+        // Imprimir el patrón en consola
+        miCuadrado.imprimirPatron();
+    }
 }
+
  

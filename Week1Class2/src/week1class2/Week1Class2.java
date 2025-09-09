@@ -14,16 +14,13 @@ package week1class2;
 
 public class Week1Class2 {
 
-    public Person() {
-    }
 
     
     
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+       // TODO code application logic here
      //Data types
      
      /*String name = "Eddw";
@@ -60,4 +57,4 @@ public class Week1Class2 {
     }
     
      
-}
+
